@@ -1,6 +1,6 @@
 '''
 Copyright Yongqian Li
-This code is licensed under the GNU General Public License v2 (GPLv2)
+This code is licensed under the GNU General Public License v3 (GPLv3)
 '''
 
 
