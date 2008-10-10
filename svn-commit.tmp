@@ -1,0 +1,6 @@
+* Rewrote entire database layer in BSDDB from SQL
+* Many parser improvements
+* Many speed optimizations
+--This line, and those below, will be ignored--
+
+M    wikipedia_miner.py
