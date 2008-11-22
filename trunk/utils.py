@@ -1,5 +1,6 @@
 '''
 Copyright Yongqian Li
+Released under GPL v3
 '''
 
 import re
